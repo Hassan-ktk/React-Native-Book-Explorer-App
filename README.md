@@ -13,6 +13,14 @@ API Integration – Fetches real-time data from an external books API.
 
 Interactive UI – Clean layout with smooth user interactions.
 
+**Usage:**
+
+1. Enter a book name, author, or keyword in the search bar.
+
+2. Browse the search results displayed below the search input.
+
+3. Click on a book for more details.
+
 **Tech Stack:**
 
 Frontend: React.js, HTML, CSS
@@ -39,8 +47,8 @@ Requirements: Bash or Any Terminal that support cat command.
 
 1. Make sure you have the following installed:
 
-Node.js (v16 or later)
-npm (comes with Node.js)
+Node.js (v16 or later), 
+npm (comes with Node.js), 
 A web browser.
 
 2. Download the files (All parts and combine it using the steps above) and extract it.
