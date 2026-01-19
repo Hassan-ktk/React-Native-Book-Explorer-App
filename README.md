@@ -5,7 +5,7 @@ React-based web application that allows users to search, browse, and explore boo
 
 This project rar file was split into multiple parts because of GitHub’s file size limit.
 
-Requirements: 1.Bash or Any Terminal that support cat command.
+Requirements: Bash or Any Terminal that support cat command.
 
 **Step1:** Download the spit parts. Make sure the file name are same. Example: project_part_aa,project_part_ab.
 
