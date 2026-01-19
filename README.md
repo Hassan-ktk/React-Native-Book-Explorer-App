@@ -29,7 +29,7 @@ This project rar file was split into multiple parts because of GitHub’s file s
 
 Requirements: Bash or Any Terminal that support cat command.
 
-**Step1:** Download the spit parts. Make sure the file name are same. Example: project_part_aa,project_part_ab.
+**Step1:** Download the spit parts. Make sure the file name are same. Example: file_part_aa, file_part_ab.
 
 **step2:** Run this command : cat file_part_* > book-explorer.rar
 
